@@ -1,4 +1,4 @@
-#Learn the following skills by participating in the Tianchi Newcomer Competition:
+# Learn the following skills by participating in the Tianchi Newcomer Competition:
 1. Skilled in using jupyter notebook for basic data cleaning and processing.
 2. Learn more advanced machine learning algorithms.
 3. Skilled in using python related libraries. For example: pandas, numpy, scikit-learn, matplotlib, etc.
@@ -6,8 +6,8 @@
 
 
 # 机器学习应用开发的一般步骤（总结）<br>
-## 数据采集并标记<br>
-    天池的比赛我们可以从网站直接获取得到数据集，这是非常方便的。然而很实际项目中，很多情况下需要我们自己去采集数据，并尽可能多的去收集特征并打上标签，虽然这是一个很繁琐很庞大的工作，但是一般情况下数据越多，特征越全，训练出来的模型才越准确。<br>
+## 数据采集并标记
+    天池的比赛我们可以从网站直接获取得到数据集，这是非常方便的。然而很实际项目中，很多情况下需要我们自己去采集数据，并尽可能多的去收集特征并打上标签，虽然这是一个很繁琐很庞大的工作，但是一般情况下数据越多，特征越全，训练出来的模型才越准确。
 ## 数据清洗<br>
     在幸福感预测的数据清洗的过程中，我初步掌握了jupyternotebook的使用方法，并使用该工具进行训练数据的清洗，例如删除某个特征的异常值、填充某些特征的缺失值、进行特征之间的单位变换等操作。随后利用清洗后的数据进行了数据分析比如分年龄段和性别等特征来分析幸福指数、求各特征之间的相关性矩阵等。<br>
 ## 特征选择<br>
